@@ -18,15 +18,15 @@ document.addEventListener('DOMContentLoaded', function() {
   ];
   // Fotos de memórias (substitua com suas próprias fotos)
     const photos = [
-        "imagensmemoria1.jpg.jpeg",
-        "imagens/memoria2.jpg.jpeg",
-        "imagens/memoria3.jpg.jpeg",
-        "imagens/memoria4.jpg.jpeg",
-        "imagens/memoria5.jpg.jpeg",
-        "imagens/memoria6.jpg.jpeg",
-        "imagens/memoria7.jpg.jpeg",
-        "imagens/memoria8.jpg.jpeg",
-        "imagens/memoria9.jpg.jpeg"
+        "imagens/memoria1.jpg",
+        "imagens/memoria2.jpg",
+        "imagens/memoria3.jpg",
+        "imagens/memoria4.jpg",
+        "imagens/memoria5.jpg",
+        "imagens/memoria6.jpg",
+        "imagens/memoria7.jpg",
+        "imagens/memoria8.jpg",
+        "imagens/memoria9.jpg"
     ];
 
     const messageElement = document.getElementById('love-message');
