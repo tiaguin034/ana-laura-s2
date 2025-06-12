@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">"
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width", initial-scale=1.0>
+  <title>Para o meu amor</title>
+  <link href="style.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Poppins:wght@300;400;500;600;700&family=Great+Vibes&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="aurora"></div>
+  <div class="container">
+    <header>
+      <h1> Para o Amor da Minha Vida ❤️</h1>
+    </header>
+    <section class="photo-section">
+      <div class="photo-frame">
+        <img src="cabecalho.jpg" alt="Nossa Foto" id="our-photo">
+      </div>
+    </section>
+
+    <section class="message-section">
+      <p id="love-message"> Para Ana laura, o amor da minha vida! </p>
+      <button id="show-message">Mostrar Mensagens</button>
+    </section>
+
+    <section class="memories">
+      <h2> Nossos momentos Especiais</h2>
+      <div class="galery">
+            <!-- Adicionar fotos e legendas aqui -->
+      </div>
+    </section>
+
+    <section class="love-counter-section">
+      <h2 class="love-counter">
+        <span id="days-together">0</span> dias juntos construindo nosso amor ❤️
+      </h2>
+    </section>
+
+    <footer>
+      <p>Feito com ❤️ por Tiago</p>
+    </footer> 
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
